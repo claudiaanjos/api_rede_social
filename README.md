@@ -5,7 +5,9 @@
 
 Projeto desenvolvido para consolidar os conhecimentos de Back-end.
 
-Para esse projeto foi construída uma API de rede social com conexão ao banco de dados, autenticação de usuário (token) e criptografia de senha. A API é composta por:
+Para esse projeto foi construída uma API de rede social com conexão ao banco de dados, autenticação de usuário (token) e criptografia de senha. 
+
+A API é composta por:
 
 - Cadastro de usuário;
 - Login;
